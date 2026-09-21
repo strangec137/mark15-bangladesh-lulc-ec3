@@ -1,0 +1,10 @@
+geopandas>=1.1
+rasterio
+numpy
+matplotlib>=3.10
+contextily>=1.7
+pyproj>=3.7
+shapely>=2.1
+fiona
+scipy
+notebook
