@@ -71,7 +71,6 @@ scale bars (`pyproj.Geod`), north arrow, semi-transparent legends, 600 DPI PNG e
 ## Licence
 
 - **Code:** MIT (see `LICENSE`).
-- **Maps in `outputs/`:** no open licence — please ask before reusing.
 
 ## Credits / attribution
 
